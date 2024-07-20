@@ -12,7 +12,7 @@ export default function Hero() {
       </div>
 
       <div className="mt-7 text-center p-10 text-wrap">
-        <h1 className="text-5xl py-2 font-bold text-green-400">Mert Karaca</h1>
+        <h1 className="text-5xl py-2 font-bold text-green-400">Halla!!</h1>
         <h2 className="text-2xl font-semibold py-2 text-gray-600 ">
           Web & Game Developer
         </h2>
